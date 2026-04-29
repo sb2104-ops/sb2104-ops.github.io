@@ -1,7 +1,21 @@
 ---
-title: "sb2104-ops.github.io"
+title: "Home"
 ---
 
-This is a Quarto website.
+# Welcome
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hi, I’m Sami Bazzi.
+
+This website is my course portfolio. It includes a short introduction about me and a link to my group project.
+
+## Group Project
+
+You can view my group project here:
+
+[Project 7: Health Insurance Choice Simulation](https://YOUR-GROUP-PROJECT-LINK-HERE)
+
+## What’s on this site
+
+- About Me
+- Group Project
+- Course portfolio content
