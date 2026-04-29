@@ -12,8 +12,7 @@ This website is my course portfolio. It includes a short introduction about me a
 
 You can view my group project here:
 
-[Project 7: Health Insurance Choice Simulation](https://YOUR-GROUP-PROJECT-LINK-HERE)
-
+https://yangkun-a.github.io/ad688-employability-sp26A1-group2/introduction.html
 ## What’s on this site
 
 - About Me
