@@ -1,5 +1,20 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+# About Me
+
+Hi! My name is Sami Bazzi. I am a graduate student at Boston University my degree is a master of data analytics.
+
+My interests include business analytics, data analysis, and using data driven methods to support decision making which is why i chose this major.
+
+In this course, I have been working with GitHub, Quarto, AWS, and analytics projects to build technical and presentation skills.
+
+## My skills and Tools
+
+- Python
+- SQL
+- AWS
+- GitHub
+- Quarto
+- Data visualization
